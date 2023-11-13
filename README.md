@@ -21,3 +21,7 @@ Made by:
 ### Special:
   * Automatically reservation: Based on the number of guests, event time, menu, drinks, and services provided by client, the system `automatically arranges tables(without manager intervention) and notifies prepaid fees(if any)`. In case there is a prepaid fee, the person booking the table is required to pay before the specified time. Otherwise, the system will no longer hold the reservation.
   * Messenger-lite: Our website `allows clients to message the manager and vice versa`. This helps the restaurant easily connect and better understand clients' requests as well as make clients express their opinions more clearly to the restaurant.
+### Deploy :  
+  * FE : https://dynamite-tnt-1.github.io/
+  * BE : https://restaurantbe-production.up.railway.app/
+  * DATABASE MYSQL : Deploy to clever service
