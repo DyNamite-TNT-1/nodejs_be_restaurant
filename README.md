@@ -1,4 +1,8 @@
 # nodejs_be_restaurant
+## Deploy :  
+  * FE : https://dynamite-tnt-1.github.io/
+  * BE : https://restaurantbe-production.up.railway.app/
+  * DATABASE MYSQL : Deploy to clever service
 ## Overview
 `Firestaurant is a website that helps users book tables online quickly, conveniently and without wasting much time and helps managers automate all processes for recording requests to book tables/change tables from clients.`
 
@@ -8,7 +12,7 @@ Made by:
   * Le Mau Anh Duc - N19DCCN038
   * Tran Thu Dat - N19DCCN036
 ## Related Source
-  * [Frontend](https://github.com/DyNamite-TNT-1/hweight_mobile_app)
+  * [Frontend](https://github.com/DyNamite-TNT-1/nodejs_be_restaurant)
   * [Document](https://github.com/DyNamite-TNT-1/doc-restaurant-project)
 ## Main features:
 ### Common:
@@ -21,7 +25,4 @@ Made by:
 ### Special:
   * Automatically reservation: Based on the number of guests, event time, menu, drinks, and services provided by client, the system `automatically arranges tables(without manager intervention) and notifies prepaid fees(if any)`. In case there is a prepaid fee, the person booking the table is required to pay before the specified time. Otherwise, the system will no longer hold the reservation.
   * Messenger-lite: Our website `allows clients to message the manager and vice versa`. This helps the restaurant easily connect and better understand clients' requests as well as make clients express their opinions more clearly to the restaurant.
-### Deploy :  
-  * FE : https://dynamite-tnt-1.github.io/
-  * BE : https://restaurantbe-production.up.railway.app/
-  * DATABASE MYSQL : Deploy to clever service
+
