@@ -8,7 +8,7 @@
 
 ---
 
-This is a Frontend source code to help develop a restaurant reservation website - an academic project of the subject "Object-oriented programming techniques" - taught by lecturer Huynh Trung Tru.
+This is a Backend source code to help develop a restaurant reservation website - an academic project of the subject "Object-oriented programming techniques" - taught by lecturer Huynh Trung Tru.
 
 Made by:
   * Le Mau Anh Duc - N19DCCN038
